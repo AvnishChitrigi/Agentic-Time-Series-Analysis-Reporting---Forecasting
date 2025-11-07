@@ -1,4 +1,4 @@
-![Project preview]([https://raw.githubusercontent.com/username/repo/main/preview.png](https://github.com/AvnishChitrigi/Agentic-Time-Series-Analysis-Reporting---Forecasting/blob/main/preview.png))
+![Project preview](preview.png)
 
 # Project Scribe: Interactive AI for Time Series Forecasting
 
